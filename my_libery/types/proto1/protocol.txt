@@ -1,0 +1,4 @@
+every node not main:
+	class and def inp() in the class and not main function
+every main:
+	main modul must have main function

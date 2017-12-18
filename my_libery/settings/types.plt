@@ -1,0 +1,1 @@
+{'proto1':'obj.inp', 'lego1':'somsing'}

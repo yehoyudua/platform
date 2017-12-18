@@ -1,0 +1,1 @@
+set_job('proj')#$#new('proj_test', 'pass')#$#set('type', 'lego1')#$#set('_m', 'main_server')#$#set('_p', 'protocol')#$#connect('_m', '_p')#$#

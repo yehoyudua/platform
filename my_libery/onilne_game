@@ -1,0 +1,12 @@
+import socket
+
+class online_game(object):
+    def __init__(self):
+        self.s = socket.socket()
+        self.s.connect((input('Enter ip: '), 80))
+        name = input('Enter name: ')
+        self.s.send('sing_in,%s,%s'%name,input('Enter password: '))
+
+    def play(self):
+        pass
+        

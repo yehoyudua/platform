@@ -1,0 +1,4 @@
+the main name is main_<name>
+every module is a class
+every module have self.call = eval("@function@") line
+every module have self.inp(list) except main
